@@ -1,0 +1,8 @@
+/shelf/
+/workspace.xml
+.idea/
+*.pyc
+lib/**/__pycache__/
+*.log
+updateVersionFile.py
+repositoryTester.py
